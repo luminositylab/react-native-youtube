@@ -1,5 +1,9 @@
 # react-native-youtube [![react-native-youtube](http://img.shields.io/npm/dm/react-native-youtube.svg)](https://www.npmjs.org/package/react-native-youtube) [![npm version](https://badge.fury.io/js/react-native-youtube.svg)](http://badge.fury.io/js/react-native-youtube) [![Dependency Status](https://david-dm.org/davidohayon669/react-native-youtube.svg)](https://david-dm.org/davidohayon669/react-native-youtube)
 
+## Note
+
+Luminosity is currently maintaining a fork since the official repo doesn't support RN web. 
+
 A `<YouTube />` component for React Native.
 
 Uses [YoutubePlayer-in-WKWebView](https://github.com/hmhv/YoutubePlayer-in-WKWebView) for iOS and [YouTube Android Player API](https://developers.google.com/youtube/android/player/) for Android and exposes much of the API, as declaratively as possible, into React Native.
